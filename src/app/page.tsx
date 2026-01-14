@@ -41,7 +41,7 @@ const programs = [
   },
   {
     title: "BOLSAS ESPORTIVAS",
-    src: "https://images.unsplash.com/photo-1505666287802-93144f177342?auto=format&fit=crop&q=80&w=1200",
+    src: "https://images.unsplash.com/photo-1519861155730-0b5fbf0dd889?auto=format&fit=crop&w=1200&q=80",
     description: "Bolsas parciais baseadas na performance excepcional do atleta em Boarding Schools e Universidades.",
   },
 ];
