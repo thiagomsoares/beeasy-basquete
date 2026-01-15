@@ -5,8 +5,12 @@ export function Menu() {
   return (
     <header className="sticky top-0 z-50 w-full border-b border-white/10 bg-black/40 backdrop-blur">
       <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-3">
-        <a href="#hero" className="font-semibold tracking-tight text-lg">
-          Be Easy
+        <a href="#hero" className="flex items-center">
+          <img
+            src="/beeasy.png"
+            alt="Be Easy Intercâmbio"
+            className="h-8 w-auto"
+          />
         </a>
         <ElectricBorder
           className="inline-block"

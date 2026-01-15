@@ -66,7 +66,7 @@ export function HeroSection() {
             </ElectricBorder>
           </div>
           <p className="text-xs text-white/90 md:text-sm drop-shadow-md">
-            Mais de X atletas já entraram em quadra internacionalmente com a Be Easy
+            Atletas do Brasil inteiro já entraram em quadra internacionalmente com a Be Easy!
           </p>
         </div>
       </div>
